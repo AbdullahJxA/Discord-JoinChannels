@@ -9,7 +9,7 @@ A tool to automate joining multiple tokens into voice channels on Discord. This 
 - Install the dependencies `npm install chalk@3.0.0 ws discord.js-selfbot-v13 readline fs`
 - Run the file using `node index.js`
 ## License 📜
-This package is released under the MIT License.
+This repo is released under the MIT License.
 ## Contributing 🤝
 Feel free to open issues or submit pull requests if you'd like to contribute to this project! I welcome improvements and suggestions.
 ## Contact 📬
