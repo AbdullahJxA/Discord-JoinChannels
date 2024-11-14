@@ -4,6 +4,10 @@ A tool to automate joining multiple tokens into voice channels on Discord. This 
 - **Setup tokens** Add each token in a new line in the `tokens.txt` file.
 - **Configure settings** Edit the `config.json` file to match your preferences, including server and Channel ID.
 - **Run the tool** Start the file to have the tokens join the specified voice channel.
+## Installation 📂
+- Install **Node.js** version **18.x or up**
+- Install the dependencies `npm install chalk@3.0.0 ws discord.js-selfbot-v13 readline fs`
+- Run the file using `node index.js`
 ## License 📜
 This package is released under the MIT License.
 ## Contributing 🤝
