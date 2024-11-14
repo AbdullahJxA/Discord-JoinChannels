@@ -1,0 +1,10 @@
+{
+    "Guild": {
+        "ID": "server_id",
+        "ChannelID": "channel_id"
+    },
+    "VoiceStatus": {
+        "selfMute": true,
+        "selfDeaf": false
+    }
+}
